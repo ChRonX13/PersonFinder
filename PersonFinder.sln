@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonFinder", "PersonFinder\PersonFinder.csproj", "{119FBD1F-E83B-4C3E-A34B-BC35519F025D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobToSql", "BlobToSql\BlobToSql.csproj", "{6488C5EF-AA17-4ADF-BB58-31C606B229D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud", "Azure\Cloud.csproj", "{5C27B071-E631-4BF8-9D71-9B4DE374C61F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{119FBD1F-E83B-4C3E-A34B-BC35519F025D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{119FBD1F-E83B-4C3E-A34B-BC35519F025D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{119FBD1F-E83B-4C3E-A34B-BC35519F025D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6488C5EF-AA17-4ADF-BB58-31C606B229D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6488C5EF-AA17-4ADF-BB58-31C606B229D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6488C5EF-AA17-4ADF-BB58-31C606B229D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6488C5EF-AA17-4ADF-BB58-31C606B229D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C27B071-E631-4BF8-9D71-9B4DE374C61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C27B071-E631-4BF8-9D71-9B4DE374C61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C27B071-E631-4BF8-9D71-9B4DE374C61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C27B071-E631-4BF8-9D71-9B4DE374C61F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
